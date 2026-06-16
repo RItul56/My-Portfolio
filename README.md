@@ -48,7 +48,7 @@ Hi, I'm **Ritul Mastkar**, a Computer Science Engineering student passionate abo
 
 Visit the live portfolio:
 
-https://ritul56.github.io/My-Portfolio/
+[https://ritul56.github.io/My-Portfolio/](https://ritulmastkar.vercel.app/)
 
 ## 📫 Connect With Me
 
