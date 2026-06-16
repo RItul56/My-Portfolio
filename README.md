@@ -53,8 +53,7 @@ https://ritul56.github.io/My-Portfolio/
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/RItul56
-* LinkedIn: Add your LinkedIn profile
-* Email: Add your professional email
+* Email: ritulmastkar56@gmail.com
 
 ## 🎯 Goals
 
