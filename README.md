@@ -52,7 +52,7 @@ https://ritul56.github.io/My-Portfolio/
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/RItul56
+* GitHub: [https://github.com/RItul56](https://ritulmastkar.vercel.app/)
 * Email: ritulmastkar56@gmail.com
 
 ## 🎯 Goals
